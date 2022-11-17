@@ -32,3 +32,5 @@ def initialize_mine_field(rows, cols):
         return print(arr[i])
 
 print(initialize_mine_field(rows,cols))
+
+#added change
